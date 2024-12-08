@@ -1,4 +1,4 @@
 # Supply-Chain-Analytics-Project---Garment-Manufacturing-Worker-Productivity-Factors-Analysis
 Identified critical variables influencing worker productivity in the garment industry through a comprehensive process, including data analysis, cleaning, machine learning, statistical analysis, and visualization. 
 
-Source: https://www.kaggle.com/datasets/arnobsaharoy/garments-worker-productivity?select=garments_worker_productivity.csv
+Dataset Source: https://www.kaggle.com/datasets/arnobsaharoy/garments-worker-productivity?select=garments_worker_productivity.csv
