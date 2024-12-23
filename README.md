@@ -5,6 +5,6 @@ Dataset Source: https://www.kaggle.com/datasets/arnobsaharoy/garments-worker-pro
 
 -- Garment Manufacturing Worker Productivity Factors Analysis.ipynb
 
--- Project Approach_ETL and Visualization for Nashville Housing.pptx
+-- Project Approach_Garment Manufacturing Productivity Analysis
 
 -- garments_worker_productivity
